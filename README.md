@@ -1,3 +1,19 @@
+#Password manager
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def password():
     print("Rules:","\n","Include 8 symbols at least","\n","Include one number at least","\n","Include 3  words at least","\n","Include one special symbol at least")
     son=['1','2','3','4','5','6','7','8','9','0']
